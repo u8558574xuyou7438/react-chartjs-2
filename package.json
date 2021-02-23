@@ -16,7 +16,7 @@
     "url": "https://github.com/reactchartjs/react-chartjs-2/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
